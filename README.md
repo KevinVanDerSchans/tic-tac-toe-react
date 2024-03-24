@@ -7,7 +7,7 @@
   <img
     src="public/readme/project-overview.png"
     alt="Project overview"
-    width="650"
+    width="550"
   >
 </div>
 
@@ -30,7 +30,7 @@
 
 **DEPLOY**:
 <br>
-
+https://ks-tic-tac-toe-react.vercel.app
 
 <br>
 <br>
